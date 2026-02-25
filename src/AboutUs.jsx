@@ -4,28 +4,26 @@ import './AboutUs.css';
 function AboutUs() {
   return (
     <div className="about-us-container">
-      {/* <h1 className="about-us-heading">About Us</h1> */}
-      <p className="about-us-description">Welcome to Paradise Nursery, where green meets serenity!</p>
-      <p className="about-us-content">
-        At Paradise Nursery, we are passionate about bringing nature closer to you. Our mission is to provide a wide range of 
-        high-quality plants that not only enhance the beauty of your surroundings but also contribute to a healthier and 
-        more sustainable lifestyle. From air-purifying plants to aromatic fragrant ones, we have something for every 
-        plant enthusiast.
-      </p>
-      {/* <p className="plant_logo_left"><img src="https://p1.hiclipart.com/preview/922/979/640/green-leaf-logo-emoji-seedling-emoticon-sticker-plant-plant-stem-flower-png-clipart-thumbnail.jpg" height='50px' width='50px' alt="" /></p> */}
-      <p className="about-us-content">
-        Our team of experts is dedicated to ensuring that each plant meets our strict standards of quality and care. 
-        Whether you're a seasoned gardener or just starting your green journey, we're here to support you every step of 
-        the way. Feel free to explore our collection, ask questions, and let us help you find the perfect plant for your 
-        home or office.
-      </p>
-      {/* <p className="plant_logo_right"><img src="https://p1.hiclipart.com/preview/922/979/640/green-leaf-logo-emoji-seedling-emoticon-sticker-plant-plant-stem-flower-png-clipart-thumbnail.jpg" height='50px' width='50px' alt="" /></p> */}
+  <p className="about-us-description">
+    Welcome to Fede's Nursery, where nature inspires every space.
+  </p>
 
-      <p className="about-us-content">
-        Join us in our mission to create a greener, healthier world. Visit Paradise Nursery today and experience the 
-        beauty of nature right at your doorstep.
-      </p>
-    </div>
+  <p className="about-us-content">
+    At Fede's Nursery, we believe that plants are more than just decoration — they bring life, balance, and positive energy into your everyday environment. Our goal is to offer a carefully selected variety of high-quality plants that enhance your surroundings while promoting a healthier, more sustainable lifestyle.
+  </p>
+
+  <p className="about-us-content">
+    From air-purifying greenery to beautifully fragrant and ornamental plants, our collection is designed for every type of plant lover. Each plant is nurtured with care and attention by our dedicated team, ensuring the highest standards of quality and vitality.
+  </p>
+
+  <p className="about-us-content">
+    Whether you're an experienced gardener or just beginning your green journey, we are here to guide and support you. Explore our selection, discover your favorites, and let us help you transform your home or office into a natural oasis.
+  </p>
+
+  <p className="about-us-content">
+    Join us in cultivating a greener future — visit Fede's Nursery and bring the beauty of nature to your doorstep.
+  </p>
+</div>
   );
 }
 
