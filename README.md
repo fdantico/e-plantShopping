@@ -1,1 +1,2 @@
-# coding-project-template
+# e-plantShopping
+DEMO: https://fdantico.github.io/e-plantShopping/
